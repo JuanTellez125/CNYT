@@ -262,7 +262,7 @@ Montaje:
 
 Resultado:
 
-![Resultado](./Images/Resultado.jepg)
+![Resultado](./Images/Resultado.jpeg)
 
 ### Secciones Recomendadas
 
