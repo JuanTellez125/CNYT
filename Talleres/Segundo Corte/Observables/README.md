@@ -108,7 +108,13 @@ Valor esperado de σz: 0.0
 
 ## 🧩 Créditos
 
-Creado por **Juan Tellez**  
+Creado por **Juan Tellez** 
+
+
 Universidad: *Escuela Colombiana de Ingenieria Julio Garavito* 
+
+
 curso: *CNYT (Ciencias Naturales y Tecnologia)* 
+
+
 Versión: 1.0 — Octubre 2025
